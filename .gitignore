@@ -1,0 +1,21 @@
+# Krita documents
+*.kra 
+
+# Paint.net documents
+*.pdn
+
+# Photoshop documents
+*.psd
+
+# Flash files
+*.swf
+*.fla
+
+# Vector files
+*.svg
+
+# Other image extensions
+*.jpg
+*.jpeg
+*.gif
+
