@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TBOI: Reflashed</name>
+    <directory>!!reflashrp</directory>
+    <id>2934904934</id>
+    <description>
+
+[img]https://files.catbox.moe/xe0qfs.png[/img]
+
+- Please set "MaxRenderScale" to 5 or 4 in the "options.ini" document located in your Binding of Isaac save folder (On Windows: My Documents/My Games/Binding of Isaac Repentance) for true Flash fidelity!
+- Restart the game after the mod is installed.
+
+[img]https://files.catbox.moe/vpn8sj.png[/img]
+
+[strike]Five[/strike] [strike]Ten[/strike] Twelve years ago, a young boy took his first trip down into the basement, facing the endless threats below to escape from the murderous delusions of his loving mother. Three years later, and onwards, he found himself facing the same predicament but with an even greater plague of horrors and peril...
+
+...yet something was different. The boy found himself made of pixels instead of vectors, and so too were his surrondings and the monsters he battled of lower fidelity. Some would even say he lacked the &quot;charm&quot; or &quot;soul&quot; of his past self, assembled piece by piece by a number of unknown artists instead of dilligently scribbled by the hands of one anguished creative.
+
+In the present, a modest few among us decided that we ought to do something about it. We've beleaguered ourselves so that the boy's treacherous journey is all the more faithful, and so that lone artist's original vision is fully realized, feverishly working on replicating that man's essence. 
+
+[img]https://files.catbox.moe/ve26bj.png[/img]
+
+[b]What is this?[/b]
+
+The Binding of Isaac: Reflashed is an (in-progress) aesthetic overhaul of The Binding of Isaac: Repentance aiming to completely replace the game's aesthetic with that of the 2011 original. A number of artists and programmers have collaborated together in order to painstakingly recreate the style of the original game.
+
+[b]Are you using vector graphics for this mod?[/b]
+
+This mod is an in-place texture and animation replacement; while we would like to use vector art rather than raster art, this would require extensive reverse engineering and programming to accomplish. We've instead opted to upscale much of the original texture files and to edit the animation files to account for their larger resolutions.
+
+[b]Music/sound changes?[/b]
+
+As it stands, while there has been talk of composing an extended Danny Baranowsky-styled soundtrack or making some Flash-styled sound effects, we're mostly focused on replacing textures. In the meantime, we'd recommend the use of other mods that restore these things, such as the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1933285222]Soundtrack Menu[/url] mod which contains the original's soundtrack and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=842542183&amp;searchtext=classic+sounds]Classic Sounds[/url].
+
+[b]Gameplay changes?[/b]
+
+This mod as it is is a purely aesthetic; at the present, no sorts of gameplay changes are present. A mod that has gameplay changes more in line with the original's may come in the future, if there is demand. If you desire a true vanilla experience within Rebirth, we'd recommend the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2709401143]Rebirth of the Lamb[/url] mod.
+
+[b]Compatibility with X mod?[/b]
+
+Once all textures of vanilla Repentance have been replaced, we'll work on supporting popular mods. If you would like to make a Reflashed compatible version of your mod, you have our blessing!
+
+We would like to have compatibility for:
+
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=836319872]External Item Descriptions[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2635267643][Rep] Enhanced Boss Bars[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2884282812][Rep] The Lost Items Pack[/url]
+
+[b]So-and-so graphic is non-existent/incomplete/looks off...[/b]
+
+Let us know either here in the discussions or on [url=https://github.com/ShweetsStuff/reflashed]GitHub[/url]! This mod is still a work in progress, so much of everything is still yet to done. We're mostly focusing on the bulk texture/animation work, and there will come a time where we'll revise graphics. We are ultimately dedicated to Edmund McMillen's presentation to the original game, so if you're an Edmund superfan and think he might've done something differently, let us know.
+
+[b]How can I contribute?[/b]
+
+We're always accepting contributors for the project! If you think you can draw in the style of Edmund McMillen, or can offer other support such as bug testing or programming, feel free to contribute on [url=https://github.com/ShweetsStuff/reflashed]GitHub[/url] or come to our [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2635267643]Discord[/url] to chat.
+
+[b]Can I use these graphics for (whatever)?[/b]
+
+You might want to check in with the author of the replacement, but generally, much of the new graphics are available under the [url=https://github.com/ShweetsStuff/reflashed/blob/main/LICENSE.txt]Creative Commons Zero license[/url], allowing you to reuse them for any purpose, even without our permission (though a shoutout would be nice)!
+
+[img]https://files.catbox.moe/r24je1.png[/img]
+
+[img]https://files.catbox.moe/6o191t.png[/img] [url=https://discord.gg/B8BtEqsZ]Chat with the community on our Discord![/url]
+
+[img]https://files.catbox.moe/8oa4l2.png[/img] [url=https://github.com/ShweetsStuff/reflashed]Contribute and observe progress on our GitHub![/url]
+
+[img]https://files.catbox.moe/s7bwg0.png[/img]
+
+[img]https://files.catbox.moe/k9eikx.png[/img]
+
+- [url=https://steamcommunity.com/id/somesadsackofdogshit]Gabito[/url]
+- [url=https://steamcommunity.com/id/ShweetsStuff]Shweet[/url]
+- [url=https://steamcommunity.com/id/maybenotomgiquestion]Lolznoboz[/url]
+- Bajongo 
+- [url=https://steamcommunity.com/profiles/76561198049429218]NICKELHEIM[/url]
+- [url=https://steamcommunity.com/profiles/76561198086977257]Carst01stn[/url]
+
+[img]https://files.catbox.moe/r5y0hr.png[/img]
+
+- [url=https://steamcommunity.com/id/Wofsauge]Wofsauge[/url], author of the original [url=https://steamcommunity.com/sharedfiles/filedetails/?id=933998346]Reflash[/url] mod
+- [url=https://steamcommunity.com/profiles/76561198150505707]Shuaner[/url], author of their fantastic [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873338111]resprite mod[/url], which artistic inspiration was taken from
+- Developers of the [url=https://github.com/jindrapetrik/jpexs-decompiler]JPEXS Flash Decompiler[/url]
+- Of course, Edmund McMillen and the Antibirth/Repentance team!</description>
+    <version>0.0.70</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Graphics"/>
+    <tag id="Sound Effects"/>
+    <tag id="Music"/>
+</metadata>
