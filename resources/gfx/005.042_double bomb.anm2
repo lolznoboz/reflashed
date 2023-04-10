@@ -1,8 +1,8 @@
 <AnimatedActor>
-	<Info CreatedBy="robot" CreatedOn="2/21/2023 4:30:24 PM" Version="106" Fps="30"/>
+	<Info CreatedBy="robot" CreatedOn="4/9/2023 8:19:39 PM" Version="107" Fps="30"/>
 	<Content>
 		<Spritesheets>
-			<Spritesheet Path="items\pick ups\pickup_016_bomb_reflash.png" Id="0"/>
+			<Spritesheet Path="items\pick ups\pickup_016_bomb_reflash_25.png" Id="0"/>
 		</Spritesheets>
 		<Layers>
 			<Layer Name="body" Id="0" SpritesheetId="0"/>
@@ -19,8 +19,8 @@
 			</RootAnimation>
 			<LayerAnimations>
 				<LayerAnimation LayerId="0" Visible="true">
-					<Frame XPosition="0" YPosition="1" XPivot="64" YPivot="96" XCrop="128" YCrop="0" Width="128" Height="128" XScale="25" YScale="25" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="true"/>
 					<Frame XPosition="0" YPosition="1" XPivot="64" YPivot="96" XCrop="128" YCrop="0" Width="128" Height="128" XScale="20" YScale="35" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="50" GreenOffset="50" BlueOffset="50" Rotation="0" Interpolated="true"/>
+					<Frame XPosition="0" YPosition="1" XPivot="64" YPivot="96" XCrop="128" YCrop="0" Width="128" Height="128" XScale="25" YScale="25" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="true"/>
 					<Frame XPosition="0" YPosition="3" XPivot="64" YPivot="96" XCrop="128" YCrop="0" Width="128" Height="128" XScale="47" YScale="17" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="100" GreenOffset="100" BlueOffset="100" Rotation="0" Interpolated="true"/>
 					<Frame XPosition="0" YPosition="3" XPivot="64" YPivot="96" XCrop="128" YCrop="0" Width="128" Height="128" XScale="65" YScale="12" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="150" GreenOffset="150" BlueOffset="150" Rotation="0" Interpolated="true"/>
 					<Frame XPosition="0" YPosition="4" XPivot="64" YPivot="96" XCrop="128" YCrop="0" Width="128" Height="128" XScale="60" YScale="10" Delay="1" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="150" GreenOffset="150" BlueOffset="150" Rotation="0" Interpolated="true"/>
