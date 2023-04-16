@@ -1,5 +1,5 @@
 <AnimatedActor>
-	<Info CreatedBy="robot" CreatedOn="10/31/2021 12:38:52 PM" Version="106" Fps="30"/>
+	<Info CreatedBy="robot" CreatedOn="11/21/2022 12:23:25 AM" Version="107" Fps="30"/>
 	<Content>
 		<Spritesheets>
 			<Spritesheet Path="Monsters/Classic/Monster_199_Parabite.png" Id="0"/>

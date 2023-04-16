@@ -1,5 +1,5 @@
 <AnimatedActor>
-	<Info CreatedBy="robot" CreatedOn="3/30/2023 7:17:18 PM" Version="108" Fps="30"/>
+	<Info CreatedBy="Unknown" CreatedOn="3/30/2023 6:40:38 PM" Version="2" Fps="30"/>
 	<Content>
 		<Spritesheets>
 			<Spritesheet Path="costumes\costume_081_bloodylust.png" Id="0"/>

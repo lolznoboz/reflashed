@@ -1,5 +1,5 @@
 <AnimatedActor>
-	<Info CreatedBy="robot" CreatedOn="10/16/2021 12:13:03 PM" Version="142" Fps="30"/>
+	<Info CreatedBy="robot" CreatedOn="11/21/2022 12:24:30 AM" Version="143" Fps="30"/>
 	<Content>
 		<Spritesheets>
 			<Spritesheet Path="monsters\classic\Monster_197_Fred.png" Id="0"/>
